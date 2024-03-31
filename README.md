@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adityasony69
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ & web developing
+- 🌱 I’m currently learning c++ & web developeing
 - 💞️ I’m looking to collaborate on popular projects
 - 📫 for any enquiries dm me on instagram(adityasony6969) or email(adityasony926@gmail.com)
 <!---
